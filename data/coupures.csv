@@ -1,0 +1,31 @@
+timestamp,ville,zone,type_zone,duree_heures,cause,frequence,impact,impact_numerique,frequence_numerique,commentaire
+2026-04-01 08:12:00,Yaoundé,Centre,Urbaine,3.5,Pluie/orage,Occasionnelle (1x/semaine),200-500,350,4,Coupure après forte pluie
+2026-04-01 19:45:00,Douala,Littoral,Urbaine,5.0,Surcharge réseau,Fréquente (2-3x/semaine),500-2000,1250,10,Quartier industriel
+2026-04-02 14:10:00,Bafoussam,Ouest,Péri-urbaine,2.0,Travaux programmés,Rare (1-2x/mois),50-200,125,1.5,Maintenance ENEO
+2026-04-02 22:30:00,Garoua,Nord,Rurale,6.0,Inconnue,Fréquente (2-3x/semaine),200-500,350,10,Aucune explication
+2026-04-03 09:05:00,Bamenda,Nord-Ouest,Urbaine,4.5,Pluie/orage,Occasionnelle (1x/semaine),500-2000,1250,4,Pluie intense
+2026-04-03 17:50:00,Maroua,Extrême-Nord,Rurale,7.0,Vent violent,Rare (1-2x/mois),200-500,350,1.5,Ligne tombée
+2026-04-04 11:20:00,Ebolowa,Sud,Péri-urbaine,3.0,Arbre tombé,Occasionnelle (1x/semaine),50-200,125,4,Arbre sur ligne
+2026-04-04 21:15:00,Kribi,Sud,Urbaine,2.5,Surcharge réseau,Rare (1-2x/mois),200-500,350,1.5,Zone touristique
+2026-04-05 06:40:00,Douala,Littoral,Urbaine,8.0,Surcharge réseau,Quotidienne,Plus de 2000,3000,30,Très fréquent
+2026-04-05 18:25:00,Yaoundé,Centre,Urbaine,1.5,Travaux programmés,Rare (1-2x/mois),50-200,125,1.5,Coupure annoncée
+2026-04-06 13:00:00,Bertoua,Est,Rurale,5.5,Inconnue,Occasionnelle (1x/semaine),200-500,350,4,Zone isolée
+2026-04-06 20:10:00,Buea,Sud-Ouest,Urbaine,4.0,Pluie/orage,Fréquente (2-3x/semaine),500-2000,1250,10,Zone montagneuse
+2026-04-07 07:30:00,Ngaoundéré,Adamaoua,Péri-urbaine,3.5,Vent violent,Rare (1-2x/mois),50-200,125,1.5,Réseau instable
+2026-04-07 19:50:00,Douala,Littoral,Urbaine,6.5,Surcharge réseau,Quotidienne,Plus de 2000,3000,30,Forte demande
+2026-04-08 10:15:00,Yaoundé,Centre,Urbaine,2.0,Travaux programmés,Rare (1-2x/mois),50-200,125,1.5,Maintenance
+2026-04-08 23:40:00,Bafoussam,Ouest,Urbaine,4.0,Pluie/orage,Occasionnelle (1x/semaine),200-500,350,4,Orage violent
+2026-04-09 12:20:00,Garoua,Nord,Rurale,7.5,Inconnue,Fréquente (2-3x/semaine),200-500,350,10,Coupure longue
+2026-04-09 18:00:00,Bamenda,Nord-Ouest,Urbaine,5.0,Arbre tombé,Occasionnelle (1x/semaine),500-2000,1250,4,Arbre sur ligne
+2026-04-10 09:45:00,Maroua,Extrême-Nord,Rurale,6.0,Vent violent,Rare (1-2x/mois),200-500,350,1.5,Vent fort
+2026-04-10 21:30:00,Douala,Littoral,Urbaine,9.0,Surcharge réseau,Quotidienne,Plus de 2000,3000,30,Très critique
+2026-04-11 08:10:00,Yaoundé,Centre,Urbaine,3.0,Pluie/orage,Occasionnelle (1x/semaine),200-500,350,4,Pluie
+2026-04-11 17:25:00,Buea,Sud-Ouest,Urbaine,4.5,Pluie/orage,Fréquente (2-3x/semaine),500-2000,1250,10,Zone volcanique
+2026-04-12 14:55:00,Bertoua,Est,Rurale,5.0,Inconnue,Occasionnelle (1x/semaine),200-500,350,4,Problème réseau
+2026-04-12 22:05:00,Douala,Littoral,Urbaine,7.0,Surcharge réseau,Quotidienne,Plus de 2000,3000,30,Pointe
+2026-04-13 11:40:00,Ebolowa,Sud,Péri-urbaine,3.0,Arbre tombé,Occasionnelle (1x/semaine),50-200,125,4,Chute arbre
+2026-04-13 19:10:00,Kribi,Sud,Urbaine,2.0,Travaux programmés,Rare (1-2x/mois),50-200,125,1.5,Travaux
+2026-04-14 07:20:00,Ngaoundéré,Adamaoua,Péri-urbaine,4.0,Vent violent,Rare (1-2x/mois),200-500,350,1.5,Rafales
+2026-04-14 20:50:00,Douala,Littoral,Urbaine,8.5,Surcharge réseau,Quotidienne,Plus de 2000,3000,30,Très critique
+2026-04-15 10:30:00,Yaoundé,Centre,Urbaine,2.5,Pluie/orage,Occasionnelle (1x/semaine),200-500,350,4,Pluie modérée
+2026-04-15 18:40:00,Bafoussam,Ouest,Urbaine,4.0,Pluie/orage,Occasionnelle (1x/semaine),200-500,350,4,Orage
